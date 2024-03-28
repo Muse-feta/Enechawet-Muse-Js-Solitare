@@ -934,6 +934,7 @@ Optional Features:
       }
 
    // parse rank as integer
+   
       function parseRankAsInt(rank) {
          // assign numerical ranks to letter cards
          switch (rank) {
